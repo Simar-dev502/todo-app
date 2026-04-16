@@ -1,6 +1,6 @@
-# 🚀 Full Stack To-Do App (MERN)
+# 🚀  To-Do App 
 
-A modern full-stack To-Do application built using the MERN stack (MongoDB, Express, React, Node.js) with authentication and task management features.
+A modern To-Do application built using the MERN stack (MongoDB, Express, React, Node.js) with authentication and task management features.
 
 ---
 
