@@ -45,7 +45,7 @@ todo-app/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/Simar-dev502/todo-app.git
 cd todo-app
 
 2️⃣ Backend Setup
